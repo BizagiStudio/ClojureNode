@@ -3,7 +3,8 @@ Funcional Programming with Clojure (ClojureScript) &amp; Nodejs.
 
 Exercises based on http://xuanji.appspot.com/isicp/1-1-elements.html
 
-Quick-Install ----------
+Quick-Install
+-------------------------
 
 1. Install NPM Modules
 ```
@@ -29,6 +30,7 @@ node main.js
 -------------------------
 
 Interact with REPL
+-------------------------
 
 1. Install NPM Modules
 ```
@@ -56,5 +58,6 @@ cljs.user=> (require '[exercises.core :as start])
 ``` clojure
 (start/(square-sum-larger 2 8 4))
 ```
+-------------------------
 
 For more information visit https://github.com/clojure/clojurescript
